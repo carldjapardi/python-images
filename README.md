@@ -2,7 +2,7 @@
 
 A simple python program for performing basic image transformations, including reversing, rotating, applying filters, and cropping.  
 
-Features  
+Features:  
 
 - **Reverse Image**: Flip an image horizontally or vertically.  
 - **Rotate Image**: Rotate an image by 90, 180, or 270 degrees.  
@@ -21,3 +21,5 @@ Import the functions in your script:
 ```python
 from image_manipulation import reverse, rotate, bw_filter, inverse, brighten, blur, random_crop
 ```
+
+Using web links for images are also possible.
